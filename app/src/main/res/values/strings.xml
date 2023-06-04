@@ -1,4 +1,13 @@
 <resources>
+    <!-- для создания англ и укр res - android resource directory - locale - uk + eng -->
     <string name="app_name">Electronics_assistant</string>
     <string name="app_present">OPEN FRIME TV PRESENT</string>
+
+    <!-- BottomNavigationView -->
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="calculate">Calculate</string>
+    <string name="info">Info</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

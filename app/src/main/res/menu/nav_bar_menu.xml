@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--для создания папки меню на res new android resource directory  потом там new menu resource file menu -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="@string/list"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:id="@+id/list"/>
+    <item android:title="@string/calculate"
+        android:icon="@drawable/baseline_calculate_24"
+        android:id="@+id/calculate"/>
+    <item android:title="@string/info"
+        android:icon="@drawable/baseline_info_24"
+        android:id="@+id/info"/>
+</menu>

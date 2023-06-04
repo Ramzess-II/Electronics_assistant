@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Помічник електронщика</string>
     <string name="app_present">OPEN FRIME TV ПРЕЗЕНТУЄ</string>
+
+    <!-- BottomNavigationView -->
+    <string name="home">Головна</string>
+    <string name="list">Список</string>
+    <string name="calculate">Калькулятор</string>
+    <string name="info">Інформація</string>
+
+    <string name="hello_blank_fragment">Привіт з фрагменту</string>
 </resources>
